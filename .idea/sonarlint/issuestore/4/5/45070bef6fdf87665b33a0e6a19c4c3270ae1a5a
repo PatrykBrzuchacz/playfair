@@ -1,0 +1,9 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙŞµüÿÿÿÿ8°µ–İ¦.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÖ½¢şÿÿÿÿ8°µ–İ¦.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş»—´şÿÿÿÿ8°µ–İ¦.
+1squid:S1220""Move this file to a named package.
+ squid:ForLoopCounterChangedCheck;"XRefactor the code in order to not assign to this loop counter from within the loop body.(­–„úÿÿÿÿ8°µ–İ¦.
